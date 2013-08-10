@@ -1,7 +1,7 @@
 i18n Stop-words
 ==============
 
-If you ever need to look for stopwords client-side these might prove to becoùe very useful.
+If you ever need (have to) to user stopwords client-side this repo might prove to become very useful!
 
 Multi language stop-words in JSON format
 
